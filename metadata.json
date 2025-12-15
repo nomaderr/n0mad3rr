@@ -1,0 +1,17 @@
+{
+  "name": "n0mad3rr",
+  "symbol": "NOM",
+  "description": "Nomaderr is a digital token for modern nomads building and moving freely across the decentralized world.",
+  "image": "https://your-domain.com/logo.png",
+  "external_url": "https://your-site.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://your-domain.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
